@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>Page title</title>
+</head>
+<body>
+<h1 id="heading">Glorious Academy Chitwan</h1>
+  <p class="basic">Glorious Academy Chitwan was established in 2066 B.S</p>
+<p class="basic"> The name of founder is Toran Dhakal and principal's name is Sharada dhakal</p>
+<a href="https://www.google.com"> Please click here to go on google
+</body>
+</html>
